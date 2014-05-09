@@ -1,0 +1,11 @@
+./similarity 男人 女人
+./similarity 男人 父亲
+./similarity 男人 母亲
+./similarity 男人 和尚
+./similarity 男人 经理
+./similarity 男人 高兴
+./similarity 男人 收音机
+./similarity 男人 鲤鱼
+./similarity 男人 苹果
+./similarity 男人 工作
+./similarity 男人 责任
